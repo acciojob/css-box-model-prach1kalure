@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.container{
+	background-color:#01AEBF;
+	width:300px;
+	padding:50px;
+	border:15px solid #5B49F7;
+	margin:20px;
+	
+}
